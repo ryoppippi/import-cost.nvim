@@ -1,7 +1,7 @@
 *import-cost* *import-cost.txt*
 
-Author: Barrett Ruth <https://barrett-ruth.github.io>
-Homepage: <https://github.com/barrett-ruth/import-cost.nvim>
+Author: Barrett Ruth <https://barrettruth.github.io>
+Homepage: <https://github.com/barrettruth/import-cost.nvim>
 
 ===============================================================================
 INTRODUCTION                                                 *import-cost.nvim*
@@ -10,7 +10,7 @@ import-cost.nvim displays the costs of javascript imports inside neovim.
 It works with ES6 and CommonJS modules in any javascript, javascriptreact,
 typescript, or typescriptreact files.
 
-Author: Barrett Ruth <https://barrett-ruth.github.io>
+Author: Barrett Ruth <https://barrettruth.com>
 
 ===============================================================================
 SETUP                                                     *import-cost.setup()*
