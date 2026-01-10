@@ -47,7 +47,7 @@ See `:h import-cost` for more information
    thus, unavoidable)
 2. Long wait times - once again, the npm module may take quite a while before
    fully parsing packages
-3. [pnpm problems](https://github.com/barrett-ruth/import-cost.nvim/issues/5)
+3. [pnpm problems](https://github.com/barrettruth/import-cost.nvim/issues/5)
 
 ## Acknowledgements
 
